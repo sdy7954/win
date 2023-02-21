@@ -52,7 +52,6 @@ slmgr /ato
 ## 脚本
 + [百度网盘简易下载助手（直链下载复活版）](https://greasyfork.org/zh-CN/scripts/418182-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%AE%80%E6%98%93%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%A4%8D%E6%B4%BB%E7%89%88)
 + [bilibili视频下载](https://greasyfork.org/zh-CN/scripts/413228-bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD)
-+ [哔哩哔哩bilibili视频下载，B站视频下载最强助手](https://greasyfork.org/zh-CN/scripts/434468-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9bilibili%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD-b%E7%AB%99%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E6%9C%80%E5%BC%BA%E5%8A%A9%E6%89%8B)
 + [文本选中复制](https://greasyfork.org/zh-CN/scripts/405130-%E6%96%87%E6%9C%AC%E9%80%89%E4%B8%AD%E5%A4%8D%E5%88%B6)
 + [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
 + [双语对照网页翻译(英文网页双语对照自动翻译)](https://greasyfork.org/zh-CN/scripts/419004-%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91-%E8%8B%B1%E6%96%87%E7%BD%91%E9%A1%B5%E5%8F%8C%E8%AF%AD%E5%AF%B9%E7%85%A7%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91)
